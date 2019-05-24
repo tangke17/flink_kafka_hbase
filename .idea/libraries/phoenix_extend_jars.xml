@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="phoenix_extend_jars">
+    <CLASSES>
+      <root url="file://G:/phoenix248jars/phoenix_extend_jars" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://G:/phoenix248jars/phoenix_extend_jars" recursive="false" />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="HydraSettings">
+    <option name="hydraStorePath" value="G:\ScalaProjects2\Flink_processlog_jp\.hydra\idea" />
+    <option name="noOfCores" value="2" />
+    <option name="projectRoot" value="G:\ScalaProjects2\Flink_processlog_jp" />
+    <option name="sourcePartitioner" value="auto" />
+  </component>
+</project>
